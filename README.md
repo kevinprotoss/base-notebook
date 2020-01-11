@@ -1,7 +1,7 @@
 # JupyterFund Base Notebook
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/wurstmeister/kafka.svg)](https://hub.docker.com/r/wurstmeister/kafka/)
-[![Build Status](https://travis-ci.org/wurstmeister/kafka-docker.svg?branch=master)](https://travis-ci.org/wurstmeister/kafka-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/kevinprotoss/base-notebook.svg)](https://hub.docker.com/r/kevinprotoss/base-notebook/)
+[![Build Status](https://travis-ci.com/kevinprotoss/base-notebook.svg?branch=master)](https://travis-ci.org/kevinprotoss/base-notebook)
 
 ### Run the latest stable version
 
